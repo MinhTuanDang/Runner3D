@@ -4,5 +4,5 @@
 <img src="https://github.com/MinhTuanDang/Runner3D/blob/main/Dev-resources/Screenshot%201.jpg"/>
 
 
-📽️ [Video demo]([https://youtu.be/vA_vPoweBtQ](https://youtu.be/vA_vPoweBtQ))
+📽️ [Video demo](https://youtu.be/vA_vPoweBtQ)
 
